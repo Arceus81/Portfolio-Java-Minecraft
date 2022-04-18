@@ -1,5 +1,5 @@
 # PortfolioForEndorah
-Un rapide Portfolio pour ma candid Endorah 
+Un rapide Portfolio pour ma candid Endorah (candid de Arcane)
 
 J'vais quand meme vous détailler chaque plugin et vous avez evidemment mon autorisation pour les décompilés via Procryon ou cavaj pour évaluer le niveau de mon code (uniquement si vous faites partit de la Endorah)
 
