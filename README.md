@@ -9,3 +9,5 @@ BoostPowder : C'est un petit concept de mode de jeu que Lord de votre team m'ave
 
 BlockStaff : à la base c'était sensé devenir un mode de jeu stylé et tout ou on devait reproduire des pixelart avec cet outil puis finalement abandon par manque de temps, vraiment regardez pas ça si vous voulez une vraie idée de mon niveau, temps passé : 20 min
 
+SpeedrunDuel : alors le plugin est pas entièrement de moi c'est un plugin qu'on m'a dit de modifié pour une vidéo on va dire que le ratio de mon code la dedans c'est 25% j'dirais, j'le met surtout pour prouver que je peux modifier un code déjà existant si besoin pour ce qui est de son concept bah le nom parle de lui même, temps passé : 2h30
+
