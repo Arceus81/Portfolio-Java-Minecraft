@@ -11,3 +11,5 @@ BlockStaff : à la base c'était sensé devenir un mode de jeu stylé et tout ou
 
 SpeedrunDuel : alors le plugin est pas entièrement de moi c'est un plugin qu'on m'a dit de modifié pour une vidéo on va dire que le ratio de mon code la dedans c'est 25% j'dirais, j'le met surtout pour prouver que je peux modifier un code déjà existant si besoin pour ce qui est de son concept bah le nom parle de lui même, temps passé : 2h30
 
+AllMobsTrade (AMT) : C'est pour une vidéo encore une fois et ça permet à chaque mob d'avoir des trades comme si c'était des Villagers, temps passé : 5h parce que l'équilibrage était vraiment long de fou.
+
