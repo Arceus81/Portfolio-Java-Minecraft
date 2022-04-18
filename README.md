@@ -7,5 +7,5 @@ BedWarsRandomChest : C'est un Add-on Bedwars qui permet d'ajouter un peu de save
 
 BoostPowder : C'est un petit concept de mode de jeu que Lord de votre team m'avez demander de dev en une après midi, c'était un petit challenge et après test du jeu on s'est rendu compte que c'etait drole mais que pendant les 5 première minutes, par rapport aux 4h que j'ai passé dessus j'ai même pas le seum d'abord 👍
 
-
+BlockStaff : à la base c'était sensé devenir un mode de jeu stylé et tout ou on devait reproduire des pixelart avec cet outil puis finalement abandon par manque de temps, vraiment regardez pas ça si vous voulez une vraie idée de mon niveau, temps passé : 20 min
 
