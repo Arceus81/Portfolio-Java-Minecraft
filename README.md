@@ -13,3 +13,9 @@ SpeedrunDuel : alors le plugin est pas entièrement de moi c'est un plugin qu'on
 
 AllMobsTrade (AMT) : C'est pour une vidéo encore une fois et ça permet à chaque mob d'avoir des trades comme si c'était des Villagers, temps passé : 5h parce que l'équilibrage était vraiment long de fou.
 
+ItemSpawner : C'est un des premiers plugins que j'ai fais pour une vidéo et c'est aussi un des rares plugins ou j'utilise du NMS (j'aime pas de ouf ça mais bon j'pense que personne n'aime cette chose) temps de travail : 4h30 environ
+
+
+Voila j'ai mis le max de truc qui sont public et finis j'ai pas mal de projet que je ne peux pas montrés parce que des gens me les ont achetés ou alors je suis sous accord, j'éspère que ça suffira, si c'est pas le cas faudra venir me voir en privé xD
+
+Merci d'avoir pris le temps de regarder tout ça, c'etait surement un peu long à checker mais bon, j'espére être pris 
